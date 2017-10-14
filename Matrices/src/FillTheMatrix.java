@@ -17,7 +17,6 @@ public class FillTheMatrix {
         if (rowCol[1].equals("B")) {
             methodB(matrix, rows, cols);
         }
-
     }
 
     private static void methodA(int[][] matrix, int row, int col) {

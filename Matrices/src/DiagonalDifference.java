@@ -11,10 +11,7 @@ public class DiagonalDifference {
         int[][] matrix = new int[num][num];
 
         for (int row = 0; row < num; row++) {
-            int[] arr = Arrays.stream(read.readLine().split(" ")).mapToInt(Integer::valueOf).toArray();
-            for (int col = 0; col < num; col++) {
-                matrix[row][col] = arr[col];
-            }
+            matrix[row] = Arrays.stream(read.readLine().split(" ")).mapToInt(Integer::valueOf).toArray();
         }
         int sum = 0;
         int sum1 = 0;

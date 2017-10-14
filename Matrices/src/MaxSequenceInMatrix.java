@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class MaxSequenceInMatrix {
 
@@ -43,10 +44,14 @@ public class MaxSequenceInMatrix {
             sequence.add(matrix[diag][diag]);
         }
         checkForSequence(sequence);
-
+    
+        List<String> res = new ArrayList<>();
         for (int i = 0; i < sequenceCount; i++) {
-            System.out.printf("%s, ", sequenceSymbol);
+            res.add(sequenceSymbol);
         }
+        String result = res.stream()
+                .collect(Collectors.joining(", "));
+        System.out.println(result);
     }
 
     private static void checkForSequence(List<String> sequence) {
