@@ -2,18 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b60cd2fa-20a0-479f-95d9-e25d4dcb480d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/01. Shockwave_Условие.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/02. Earthquake_Условие.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/Java Fundamentals 19 February 2017 Part I.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/out/production/Java Fundamentals 19 February 2017 Part I/Ascent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/out/production/Java Fundamentals 19 February 2017 Part I/Earthquake.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/out/production/Java Fundamentals 19 February 2017 Part I/Shockwave.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/src/Earthquake.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part I/src/Shockwave.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/out/production/Java Advanced 22 August 2016/AshesOfRosesOneMap.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/out/production/Java Advanced 22 August 2016/AshesOfRoses.class" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/out/production/Java Advanced 22 August 2016/AshesOfRoses.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/out/production/Java Advanced 22 August 2016/NMS.class" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/out/production/Java Advanced 22 August 2016/NMS.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/out/production/Java Advanced 22 August 2016/NaturesProphet.class" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/out/production/Java Advanced 22 August 2016/NaturesProphet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/out/production/Java Advanced 22 August 2016/SecondNature.class" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/out/production/Java Advanced 22 August 2016/SecondNature.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java Fundamentals 19 February 2017 Part I/Earthquake.class" afterPath="$PROJECT_DIR$/out/production/Java Fundamentals 19 February 2017 Part I/Earthquake.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicArtillery.java" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicArtillery.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicAssault.java" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicAssault.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/src/AshesOfRoses.java" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/src/AshesOfRoses.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/src/NaturesProphet.java" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/src/NaturesProphet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/src/SecondNature.java" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/src/SecondNature.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced Retake Exam - 03 May 2017/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java Advanced Retake Exam - 03 May 2017/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part II/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java Fundamentals 19 February 2017 Part II/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Earthquake.java" afterPath="$PROJECT_DIR$/src/Earthquake.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Highscore.java" afterPath="$PROJECT_DIR$/src/Highscore.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,42 +29,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Ascent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ascent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Earthquake.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Earthquake.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Highscore.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Highscore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shockwave.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Shockwave.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -78,6 +54,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Earthquake.java" />
+        <option value="$PROJECT_DIR$/src/Highscore.java" />
       </list>
     </option>
   </component>
@@ -108,9 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,12 +102,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java Advanced 22 August 2016" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -152,6 +129,34 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Highscore">
+    <configuration name="Ascent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Ascent" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java Fundamentals 19 February 2017 Part I" />
+      <envs />
+    </configuration>
+    <configuration name="Earthquake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Earthquake" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java Fundamentals 19 February 2017 Part I" />
+      <envs />
+    </configuration>
     <configuration name="Highscore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Highscore" />
@@ -247,14 +252,24 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Highscore" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Ascent" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Earthquake" />
+    </list>
     <recent_temporary>
-      <list size="1">
+      <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Application.Highscore" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Earthquake" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Ascent" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -265,18 +280,24 @@
       <updated>1508199444202</updated>
       <workItem from="1508199445437" duration="846000" />
       <workItem from="1508258733416" duration="67000" />
+      <workItem from="1508258879089" duration="2468000" />
+      <workItem from="1508262275728" duration="3040000" />
+      <workItem from="1508521191143" duration="19000" />
+      <workItem from="1508521220710" duration="152000" />
+      <workItem from="1508524784362" duration="2223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="913000" />
+    <option name="totallyTimeSpent" value="8815000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -293,7 +314,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973786" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -310,10 +331,81 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ascent.java</url>
+          <line>24</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Highscore.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Highscore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Earthquake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ascent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="59" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Highscore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Highscore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Earthquake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Highscore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="42" column="61" lean-forward="true" selection-start-line="42" selection-start-column="61" selection-end-line="42" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ascent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -342,6 +434,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shockwave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ascent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="59" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Earthquake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Highscore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding />
         </state>
       </provider>
