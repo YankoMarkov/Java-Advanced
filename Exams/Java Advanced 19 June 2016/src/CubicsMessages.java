@@ -14,14 +14,9 @@ public class CubicsMessages {
 			int number = Integer.valueOf(read.readLine());
 			
 			Pattern pattern = Pattern.compile("(?<digits1>\\d+)(?<letters>[a-zA-Z]{" + number + "})");
-			
-			int index = 0;
 			String text = "";
 			String firstNumber = "";
-			StringBuilder secondNumber = new StringBuilder();
-			StringBuilder totalText = new StringBuilder();
 			Matcher matcher = pattern.matcher(message);
-			String lastPart = "";
 			
 			while (matcher.find()) {
 				if (matcher.group("letters") != null) {
@@ -35,20 +30,23 @@ public class CubicsMessages {
 					}
 				}
 			}
-			index = firstNumber.length() + text.length();
-			lastPart = message.substring(index);
-			boolean check = false;
+			int index = firstNumber.length() + text.length();
+			String lastPart = message.substring(index);
+			StringBuilder secondNumber = new StringBuilder();
+			StringBuilder totalText = new StringBuilder();
+			boolean isAlphabetic = false;
+			
 			for (int i = 0; i < lastPart.length(); i++) {
 				char temp = lastPart.charAt(i);
 				if (Character.isDigit(temp)) {
 					secondNumber.append(temp);
 				}
 				if (Character.isAlphabetic(temp)) {
-					check = true;
+					isAlphabetic = true;
 					break;
 				}
 			}
-			if (check) {
+			if (isAlphabetic) {
 				continue;
 			}
 			if (!text.isEmpty()) {

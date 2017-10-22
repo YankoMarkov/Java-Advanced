@@ -24,13 +24,13 @@ public class CubicArtillery {
 				if (!Character.isDigit(str.charAt(0))) {
 					bunkers.add(str);
 				} else {
-					int weaponCapacity = Integer.valueOf(str);
+					int weapon = Integer.valueOf(str);
 					boolean weaponContained = false;
 					
 					while (bunkers.size() > 1) {
-						if (freeCapacity >= weaponCapacity) {
-							freeCapacity -= weaponCapacity;
-							weapons.add(weaponCapacity);
+						if (freeCapacity >= weapon) {
+							freeCapacity -= weapon;
+							weapons.add(weapon);
 							weaponContained = true;
 							break;
 						}
@@ -44,16 +44,16 @@ public class CubicArtillery {
 						freeCapacity = capacity;
 					}
 					if (!weaponContained && bunkers.size() == 1) {
-						if (capacity >= weaponCapacity) {
-							if (freeCapacity < weaponCapacity) {
+						if (capacity >= weapon) {
+							if (freeCapacity < weapon) {
 								
-								while (freeCapacity < weaponCapacity) {
+								while (freeCapacity < weapon) {
 									int removedWeapon = weapons.remove();
 									freeCapacity += removedWeapon;
 								}
 							}
-							weapons.add(weaponCapacity);
-							freeCapacity -= weaponCapacity;
+							weapons.add(weapon);
+							freeCapacity -= weapon;
 						}
 					}
 				}

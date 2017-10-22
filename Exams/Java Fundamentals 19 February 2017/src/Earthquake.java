@@ -15,6 +15,7 @@ public class Earthquake {
 		for (int i = 0; i < num; i++) {
 			int[] temp = Arrays.stream(read.readLine().split("\\s+")).mapToInt(Integer::valueOf).toArray();
 			Deque<Integer> seismic = new ArrayDeque<>();
+			
 			for (int s : temp) {
 				seismic.add(s);
 			}

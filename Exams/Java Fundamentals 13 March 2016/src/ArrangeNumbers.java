@@ -13,52 +13,52 @@ public class ArrangeNumbers {
         Map<String, String> result = new TreeMap<>();
 
         for (String numbers : input) {
-            String number = "";
+            StringBuilder number = new StringBuilder();
 
             for (int i = 0; i < numbers.length(); i++) {
                 if (i != 0) {
-                    number += "-";
+                    number.append("-");
                 }
                 switch (numbers.charAt(i)) {
                     case '0':
-                        number += "zero";
+                        number.append("zero");
                         break;
                     case '1':
-                        number += "one";
+                        number.append("one");
                         break;
                     case '2':
-                        number += "two";
+                        number.append("two");
                         break;
                     case '3':
-                        number += "three";
+                        number.append("three");
                         break;
                     case '4':
-                        number += "four";
+                        number.append("four");
                         break;
                     case '5':
-                        number += "five";
+                        number.append("five");
                         break;
                     case '6':
-                        number += "six";
+                        number.append("six");
                         break;
                     case '7':
-                        number += "seven";
+                        number.append("seven");
                         break;
                     case '8':
-                        number += "eight";
+                        number.append("eight");
                         break;
                     case '9':
-                        number += "nine";
+                        number.append("nine");
                         break;
                     default:
                         break;
                 }
             }
-            if (result.containsKey(number)) {
-                String newValue = result.get(number) + ", " + numbers;
-                result.put(number, newValue);
+            if (result.containsKey(number.toString())) {
+                String newValue = result.get(number.toString()) + ", " + numbers;
+                result.put(number.toString(), newValue);
             } else {
-                result.put(number, numbers);
+                result.put(number.toString(), numbers);
             }
         }
         String total = String.join(", ", result.values());

@@ -35,22 +35,14 @@ public class CubicAssault {
 			}
 		}
 		result.entrySet().stream()
-				.sorted((a, b) -> {
-					return Integer.compare(a.getKey().length(), b.getKey().length());
-				})
-				.sorted((a, b) -> {
-					return Long.compare(b.getValue().get("Black"), a.getValue().get("Black"));
-				})
+				.sorted((a, b) -> Integer.compare(a.getKey().length(), b.getKey().length()))
+				.sorted((a, b) -> Long.compare(b.getValue().get("Black"), a.getValue().get("Black")))
 				.forEach(reg -> {
 					System.out.println(reg.getKey());
 					reg.getValue().entrySet().stream()
 							.sorted((m1, m2) -> m1.getKey().compareTo(m2.getKey()))
-							.sorted((a, b) -> {
-								return b.getValue().compareTo(a.getValue());
-							})
-							.forEach(meteor -> {
-								System.out.printf("-> %s : %d\n", meteor.getKey(), meteor.getValue());
-							});
+							.sorted((a, b) -> b.getValue().compareTo(a.getValue()))
+							.forEach(meteor -> System.out.printf("-> %s : %d\n", meteor.getKey(), meteor.getValue()));
 				});
 	}
 	

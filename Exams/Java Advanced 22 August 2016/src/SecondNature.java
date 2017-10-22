@@ -17,7 +17,9 @@ public class SecondNature {
 		flowers.addAll(inputFlowers);
 		buckets.addAll(inputBuckets);
 		
-		for (int i = 0; i < flowers.size(); i++) {
+		int index = 0;
+		while (index < flowers.size()) {
+			index++;
 			int bucket = buckets.peek();
 			int flower = flowers.peek();
 			if (buckets.size() == 1) {
@@ -25,7 +27,7 @@ public class SecondNature {
 					flowers.pop();
 					buckets.pop();
 					buckets.push(bucket - flower);
-					i = -1;
+					index = 0;
 				} else if (bucket - flower < 0) {
 					buckets.pop();
 					flowers.pop();
@@ -42,16 +44,16 @@ public class SecondNature {
 					buckets.pop();
 					int firstBucket = buckets.pop();
 					buckets.push(firstBucket + (bucket - flower));
-					i = -1;
+					index = 0;
 				} else if (bucket - flower < 0) {
 					buckets.pop();
 					flowers.pop();
 					flowers.push(flower - bucket);
-					i = -1;
+					index = 0;
 				} else if (bucket - flower == 0) {
 					secondNature.add(flowers.pop());
 					buckets.pop();
-					i = -1;
+					index = 0;
 				}
 			}
 		}
