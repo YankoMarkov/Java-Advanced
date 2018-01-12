@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b60cd2fa-20a0-479f-95d9-e25d4dcb480d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Java Advanced Retake Exam - 03 May 2017/02.SimpleExpression.docx" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/out/production/Java Advanced 19 June 2016/CubicArtillery.class" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/out/production/Java Advanced 19 June 2016/CubicArtillery.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/out/production/Java Advanced 19 June 2016/CubicsMessages.class" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/out/production/Java Advanced 19 June 2016/CubicsMessages.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/out/production/Java Advanced 19 June 2016/CubicsRube.class" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/out/production/Java Advanced 19 June 2016/CubicsRube.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Exam Preparation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Exam Preparation/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicArtillery.java" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicArtillery.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicAssault.java" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicAssault.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicsMessages.java" afterPath="$PROJECT_DIR$/../Java Advanced 19 June 2016/src/CubicsMessages.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced 22 August 2016/src/SecondNature.java" afterPath="$PROJECT_DIR$/../Java Advanced 22 August 2016/src/SecondNature.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Advanced Retake Exam - 03 May 2017/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java Advanced Retake Exam - 03 May 2017/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/src/RoyalAccounting.java" afterPath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/src/RoyalAccounting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/src/RoyalFlush.java" afterPath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/src/RoyalFlush.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/src/Royalism.java" afterPath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/src/Royalism.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/src/Royalism1.java" afterPath="$PROJECT_DIR$/../Java Fundamentals 08 May 2016/src/Royalism1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/src/ArrangeNumbers.java" afterPath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/src/ArrangeNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/src/BasicMarkupLanguage.java" afterPath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/src/BasicMarkupLanguage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/src/ChampionsLeague.java" afterPath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/src/ChampionsLeague.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/src/Monopoly.java" afterPath="$PROJECT_DIR$/../Java Fundamentals 13 March 2016/src/Monopoly.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Earthquake.java" afterPath="$PROJECT_DIR$/src/Earthquake.java" />
-    </list>
+    <list default="true" id="b60cd2fa-20a0-479f-95d9-e25d4dcb480d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -81,9 +55,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,6 +72,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -282,11 +256,12 @@
       <workItem from="1508521220710" duration="152000" />
       <workItem from="1508524784362" duration="2223000" />
       <workItem from="1508629736967" duration="1943000" />
+      <workItem from="1508676942285" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10758000" />
+    <option name="totallyTimeSpent" value="10799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -309,8 +284,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973786" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973786" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
